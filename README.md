@@ -21,5 +21,3 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 <br/>
 
-# Github Statistics:
-![](https://streak-stats.demolab.com/?user=idskg&theme=dark&hide_border=true)
